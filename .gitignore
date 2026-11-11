@@ -1,6 +1,0 @@
-node_modules
-dist
-
-# Ne JAMAIS committer votre veritable cle API : ce fichier reste local a votre machine.
-.env
-.env.*.local
